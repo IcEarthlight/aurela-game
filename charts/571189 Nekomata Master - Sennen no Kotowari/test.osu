@@ -1,0 +1,76 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 76476
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.3
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Sennen no Kotowari
+TitleUnicode:千年ノ理
+Artist:Nekomata Master
+ArtistUnicode:猫叉Master
+Creator:Critical_Star
+Version:NOVICE
+Source:SOUND VOLTEX III GRAVITY WARS
+Tags:WORLD/ELECTRONICA ZUN 千年幻想郷 ～ History of the Moon BEMANI×東方Project Ultimate MasterPieces Naoyuki Sato beatmania IIDX 22 PENDUAL
+BeatmapID:1213027
+BeatmapSetID:571189
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:7
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1575,392.156862745098,4,2,1,35,1,0
+39222,-100,4,2,1,35,0,1
+51771,-100,4,2,1,35,0,0
+76869,-100,4,2,1,35,0,1
+82751,-100,4,2,1,35,0,0
+83143,-100,4,2,1,35,0,1
+89025,-100,4,2,1,35,0,0
+89418,-100,4,2,1,35,0,1
+95300,-100,4,2,1,35,0,0
+95692,-100,4,2,1,35,0,1
+100398,-100,4,2,1,35,0,0
+
+
+[HitObjects]
+182,192,1182,128,0,1575:0:0:0:0:
+475,192,1575,128,2,2163:0:0:0:0:
+36,192,2163,128,2,3143:0:0:0:0:
+402,192,3143,128,0,3927:0:0:0:0:
+475,192,4712,128,2,5300:0:0:0:0:
+256,192,6280,128,0,7065:0:0:0:0:
+475,192,10986,128,0,11182:0:0:0:0:
+109,192,16673,128,0,16869:0:0:0:0:
+402,192,17065,128,0,17261:0:0:0:0:
+402,192,18241,128,0,18437:0:0:0:0:
+109,192,18633,128,0,18829:0:0:0:0:
